@@ -1,2 +1,2 @@
-# Rag-Based-ChatBot
-AI assisted chatbot using Rag
+# RagBasedChatBot
+This is a RAG based chatbot
